@@ -10,7 +10,7 @@ url: "https://blog-tamilctf.github.io/"
 
 author: TamilCTF # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg # support internet resources
+avatar: 'https://avatars.githubusercontent.com/u/96329133?v=4' # support internet resources
 
 github:
   username: blog-tamilctf # change to your github username
