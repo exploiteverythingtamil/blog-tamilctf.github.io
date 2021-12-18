@@ -1,35 +1,33 @@
-title: Aditya Zope # the main title
+title: TamilCTF # the main title
 
-tagline: Developer. Competitive Programmer # it will display as the sub-title
+tagline:  Team TamilCTF# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Writeups,blogs,resources and more
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "https://adzo261.github.io"
+url: "https://blog-tamilctf.github.io/"
 
-author: Aditya Zope # change to your full name
+author: TamilCTF # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg # support internet resources
 
 github:
-  username: adzo261 # change to your github username
+  username: blog-tamilctf # change to your github username
 
 twitter:
-  username: adzo261 # change to your twitter username
+  username: blog-tamilctf # change to your twitter username
 
 social:
-  name: Aditya Zope # it will shows as the copyright owner in Footer
-  email: adityazope261@gmail.com # change to your email address
+  name: TamilCTF # it will shows as the copyright owner in Footer
+  email: tamilctf@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/adzo261 # change to your twitter homepage
-    - https://github.com/adzo261 # change to your github homepage
+    - https://twitter.com/tamilctf # change to your twitter homepage
+    - https://github.com/tamilctf # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/adzo261
+    # - https://www.linkedin.com/in/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
