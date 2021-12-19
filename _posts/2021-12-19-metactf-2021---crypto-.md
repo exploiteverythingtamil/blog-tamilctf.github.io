@@ -7,12 +7,17 @@ categories: ctftime
 tags: "crypto"
 math: true
 mermaid: true
-
+image:
+  src: /commons/devices-mockup.png
+  width: 800
+  height: 500
 ---
-## Hell0 4LL 
+
 ## CTF Name : MetaCTF 2021 (Dec 5)
 ### Category : Cryptography #5
 ----
+> This Writeup involves Easy level challenges (Beginner Friendly)
+
 ## 1. Size Matters 
 ![image](https://user-images.githubusercontent.com/72292872/146650731-7c408104-53eb-4727-93dd-d46bc6105255.png)
 
