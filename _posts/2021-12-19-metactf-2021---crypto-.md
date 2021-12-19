@@ -4,13 +4,13 @@ description: Beginner Level Challenges from MetaCTF #5
 author: cyberpj
 date: 2021-12-19
 categories: ctftime
-tags: "crypto"
+tags: [cryptography]
 math: true
 mermaid: true
 ---
 
 ## CTF Name : MetaCTF 2021 (Dec 5)
-### Category : Cryptography #5
+
 ----
 > This Writeup involves Easy level challenges (Beginner Friendly)
 
@@ -76,9 +76,7 @@ Just a Base64
 ## Flag : MetaCTF{encoding_is_N0T_the_same_as_encryption!!}  
 
 ------
-Thanks For reading - Team `TamilCTF`
+Thanks For reading
 
-------
- 
 
 
