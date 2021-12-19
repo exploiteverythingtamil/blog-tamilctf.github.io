@@ -76,6 +76,9 @@ Just a Base64
 ## Flag : MetaCTF{encoding_is_N0T_the_same_as_encryption!!}  
 
 ------
-Thanks For reading
+Thanks For reading - Team `TamilCTF`
+
+------
+ 
 
 
