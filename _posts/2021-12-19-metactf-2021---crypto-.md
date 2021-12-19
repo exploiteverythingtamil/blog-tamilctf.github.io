@@ -7,10 +7,6 @@ categories: ctftime
 tags: "crypto"
 math: true
 mermaid: true
-image:
-  src: /commons/devices-mockup.png
-  width: 800
-  height: 500
 ---
 
 ## CTF Name : MetaCTF 2021 (Dec 5)
