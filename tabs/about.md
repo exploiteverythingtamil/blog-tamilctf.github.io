@@ -7,4 +7,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: new info `tabs/about.md` and it will show up on this page.
+> The TamilCTF team 
