@@ -5,7 +5,7 @@ author:
   name: jopraveen
   link: https://github.com/jopraveen
 date: 2021-12-18
-categories: [CTFtime,Meta red 2021]
+categories: [CTFtime,Meta-red 2021]
 tags: [ret2win,python,pwntools,pwn]
 math: true
 mermaid: true
