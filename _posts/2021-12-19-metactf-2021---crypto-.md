@@ -10,7 +10,7 @@ mermaid: true
 ---
 
 ## CTF Name : MetaCTF 2021 (Dec 5)
-
+### Category : Cryptography #5
 ----
 > This Writeup involves Easy level challenges (Beginner Friendly)
 
@@ -68,15 +68,20 @@ Thats all
 ----
 
 ## 5. Tq For The pwd 
+
 ![image](https://user-images.githubusercontent.com/72292872/146651683-b1caab66-e230-4892-a14b-3e3441ed8f26.png)
 
 Just a Base64 
+
 ```echo TWV0YUNURntlbmNvZGluZ19pc19OMFRfdGhlX3NhbWVfYXNfZW5jcnlwdGlvbiEhfQ==|base64 -d ```
                                                                                                               
 ## Flag : MetaCTF{encoding_is_N0T_the_same_as_encryption!!}  
 
 ------
-Thanks For reading
+Thanks For reading - Team `TamilCTF`
+
+------
+ 
 
 
 
