@@ -1,5 +1,5 @@
 ---
-title: python string functions
+title: Python string functions
 description: some built-in functions of string datatype
 author: gokul
 date: 2021-12-20
