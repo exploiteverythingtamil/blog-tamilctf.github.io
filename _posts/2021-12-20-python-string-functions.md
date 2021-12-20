@@ -9,6 +9,8 @@ tags: [python, string, functions]
 
 # Python String Funtions
 
+
+
 ```python
 # string concatenation
 
@@ -64,5 +66,6 @@ print(list_to_string)
 ```
 
 *Hope you learnt about some functions*
+
 
 
