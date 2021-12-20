@@ -1,7 +1,7 @@
 ---
 title: Python string functions
 description: some built-in functions of string datatype
-author: gokul
+author: gokulap
 date: 2021-12-20
 categories: [python]
 tags: [python, string, functions]
@@ -10,8 +10,6 @@ tags: [python, string, functions]
 # Python String Funtions
 
 ```python
-import json
-
 # string concatenation
 
 string1 = 'tamil'
@@ -63,8 +61,8 @@ for char in list_of_chars:
 
 list_to_string = ''.join(list_of_chars)
 print(list_to_string)
-
 ```
 
 *Hope you learnt about some functions*
+
 
