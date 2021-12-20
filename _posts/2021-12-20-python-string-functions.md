@@ -66,4 +66,4 @@ print(list_to_string)
 
 ```
 
-*** Hope you learnt about some functions ***
+*Hope you learnt about some functions*
