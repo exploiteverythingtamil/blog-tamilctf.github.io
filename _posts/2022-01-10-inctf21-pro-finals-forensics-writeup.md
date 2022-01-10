@@ -4,7 +4,7 @@ description: Beginner Level Interesting Challenges From INCTF21 PRO Finals
 author: cyberpj
 date: 2021-12-18
 categories: CTF Events
-tags: [forensics,peepdf,wireshark,steganography]
+tags: [forensics,peepdf,wireshark,steganography,deepsound,PNG,MagicBytes,cipher]
 ---
 
 
@@ -190,3 +190,4 @@ chall.png: data
 ### Flag : inctf{tH15_w4S_Pr3Ty_EA5y}
 
 -----
+
