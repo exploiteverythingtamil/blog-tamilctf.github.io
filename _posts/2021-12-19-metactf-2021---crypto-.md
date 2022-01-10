@@ -14,6 +14,7 @@ mermaid: true
 ### Category : Cryptography #5
 ----
 > This Writeup involves Easy level challenges (Beginner Friendly)
+>Pure Beginner Friendly Challenges
 
 ## 1. Size Matters 
 ![image](https://user-images.githubusercontent.com/72292872/146650731-7c408104-53eb-4727-93dd-d46bc6105255.png)
@@ -83,6 +84,7 @@ Thanks For reading - Team `TamilCTF`
 
 ------
  
+
 
 
 
